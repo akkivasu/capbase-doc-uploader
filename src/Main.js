@@ -3,10 +3,8 @@ import { ProgressBar, Button, Container, Row, Col } from 'react-bootstrap';
 import Navigation from './components/Navigation'
 import TypingText from './components/TypingText';
 import docsimg from './assets/right-image.png';
-import Typical from 'react-typical';
 import Footer from './components/Footer';
-import {useHistory} from 'react-router-dom';
-import {Redirect, NavLink} from 'react-router-dom';
+import { NavLink} from 'react-router-dom';
 import Navset from './Navset';
 const Main = () => {
     return (
