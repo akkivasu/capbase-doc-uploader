@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+@keyframes imageslide {
+  from {position: absolute; left: 0%}
+  to {position: absolute; left: 60%}
+}
+
+.sliding-image {
+  animation-name: imageslide;
+  animation-duration: 4s;
+  animation-fill-mode: both;
+}
+
+@keyframes pbappear {
+  from {display: none; visibility: hidden;}
+  to {visibility: visible;}
+}
+
+.appearing-pb {
+  animation-name: pbappear;
+  animation-duration: 5s;
+  animation-delay: 2s;
+  animation-fill-mode: both;
+  padding-left: 5%;
+}
+
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #059eda;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+
+.fixed-sidenav {
+  height: 90%;
+  width: 25%; 
+  position: fixed;
+  z-index: 1;
+  bottom: 0; 
+  right: 0;
+  background-color: white;
+  border-style: none none none dashed;
+  overflow-x: hidden; 
+  padding-top: 20px;
+  text-align: center;
+  border-color: #059eda;
+  border-width: 1px;
+}
+
+/* .sticky-nav {
+  position: fixed;
+  background-color: white;
+  z-index:1;
+  width: 100%;
+} */
+
+.sl-badge {
+  border-style: hidden;
+  height: 35px;
+  width: 35px;
+  border-radius: 50%;
+  text-align: center;
+  background-color: #059eda;
+  color: white;
+  line-height: 35px;
+}
