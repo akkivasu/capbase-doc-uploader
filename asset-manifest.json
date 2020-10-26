@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/akkivasu.github.io/capbase-doc-uploader/static/css/main.20cd444f.chunk.css",
+    "main.js": "/akkivasu.github.io/capbase-doc-uploader/static/js/main.dd3dcf51.chunk.js",
+    "main.js.map": "/akkivasu.github.io/capbase-doc-uploader/static/js/main.dd3dcf51.chunk.js.map",
+    "runtime-main.js": "/akkivasu.github.io/capbase-doc-uploader/static/js/runtime-main.1e9cc368.js",
+    "runtime-main.js.map": "/akkivasu.github.io/capbase-doc-uploader/static/js/runtime-main.1e9cc368.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/akkivasu.github.io/capbase-doc-uploader/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a94e59f3.chunk.js": "/akkivasu.github.io/capbase-doc-uploader/static/js/2.a94e59f3.chunk.js",
+    "static/js/2.a94e59f3.chunk.js.map": "/akkivasu.github.io/capbase-doc-uploader/static/js/2.a94e59f3.chunk.js.map",
+    "static/js/3.9817659e.chunk.js": "/akkivasu.github.io/capbase-doc-uploader/static/js/3.9817659e.chunk.js",
+    "static/js/3.9817659e.chunk.js.map": "/akkivasu.github.io/capbase-doc-uploader/static/js/3.9817659e.chunk.js.map",
+    "index.html": "/akkivasu.github.io/capbase-doc-uploader/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/akkivasu.github.io/capbase-doc-uploader/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.20cd444f.chunk.css.map": "/akkivasu.github.io/capbase-doc-uploader/static/css/main.20cd444f.chunk.css.map",
+    "static/js/2.a94e59f3.chunk.js.LICENSE.txt": "/akkivasu.github.io/capbase-doc-uploader/static/js/2.a94e59f3.chunk.js.LICENSE.txt",
+    "static/media/check.dad3a8b0.png": "/akkivasu.github.io/capbase-doc-uploader/static/media/check.dad3a8b0.png",
+    "static/media/newcaplogo.67fd9fcb.svg": "/akkivasu.github.io/capbase-doc-uploader/static/media/newcaplogo.67fd9fcb.svg",
+    "static/media/right-image.4c250489.png": "/akkivasu.github.io/capbase-doc-uploader/static/media/right-image.4c250489.png",
+    "static/media/trash-alt-solid.6346df54.svg": "/akkivasu.github.io/capbase-doc-uploader/static/media/trash-alt-solid.6346df54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e9cc368.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a94e59f3.chunk.js",
+    "static/css/main.20cd444f.chunk.css",
+    "static/js/main.dd3dcf51.chunk.js"
+  ]
+}
